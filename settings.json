@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "FITNACraft2026-27.aternos.me:33408",
+    "port": 33408,
     "version": "",
     "try-creative": false
   },
